@@ -1,34 +1,34 @@
 [
   {
-    "name": "Gorebyss",
+    "name": "משרד החקלאות ופיתוח הכפר",
     "url": "http://bulbapedia.bulbagarden.net/wiki/Gorebyss_(Pok%C3%A9mon)",
     "type": 0,
     "text": "His body is durable enough to withstand high-pressure levels in the deep sea. Do not confuse with HBase, Couchbase, MeshBase, Graphbase or KirbyBase.",
     "img": "gorebyss.png"
   },
   {
-    "name": "Tokutek",
+    "name": "משרד הגולן, השפלה, והזהות היהודית",
     "url": "https://www.percona.com/",
     "type": 1,
     "text": "Tokutek claims to improve MongoDB performance 20x. It is unclear if this also applies to $lookup.",
     "img": "tokutek.png"
   },
   {
-    "name": "Adabas",
+    "name": "המשרד לענייני ערבים",
     "url": "https://en.wikipedia.org/wiki/ADABAS",
     "type": 1,
     "text": "ADABAS was NoSQL from a time when there was no SQL. The technology now is owned by Software AG. \"Software AG: We're not sure what we do either.\"",
     "img": "adabas.gif"
   },
   {
-    "name": "Feebas",
+    "name": "משרד ירושלים ומסורת ישראל",
     "url": "http://bulbapedia.bulbagarden.net/wiki/Feebas_(Pok%C3%A9mon)",
     "type": 0,
     "text": "Feebas requires Swift Swim to get marvel scale.",
     "img": "feebas.png"
   },
   {
-    "name": "Azurill",
+    "name": "משרד הנגב, הגליל והחוסן הלאומי",
     "url": "http://bulbapedia.bulbagarden.net/wiki/Azurill_(Pok%C3%A9mon)",
     "type": 0,
     "text": "Azurill's tail is large and bouncy. Azurill can be seen bouncing and playing on its big, rubbery tail. On sunny days they gather at the edge of water and splash about for fun.",

@@ -7,8 +7,8 @@ var APP_STATES = {
   FINISHED: 4
 };
 
-var IS_POKEMON=0;
-var IS_BIGDATA=1;
+var IS_MITRAD=0;
+var IS_MISRAD=1;
 
 var App = React.createClass({
   getInitialState: function() {

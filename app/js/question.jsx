@@ -1,19 +1,19 @@
 'use strict';
 
 var Question = React.createClass({
-  selectBigDataAnswer: function selectBigDataAnswer() {
-    this.props.selectAnswer(IS_BIGDATA);
+  selectMisradAnswer: function selectMisradAnswer() {
+    this.props.selectAnswer(IS_MISRAD);
   },
-  selectPokemonAnswer: function selectPokemonAnswer() {
-    this.props.selectAnswer(IS_POKEMON);
+  selectMitradAnswer: function selectMitradAnswer() {
+    this.props.selectAnswer(IS_MITRAD);
   },
   render: function() {
     return (
       <div className="question">
         <h1 className="question-name">{this.props.question.name}</h1>
         <ul className="question-buttons">
-          <li><button className="btn btn-lg btn-default question-button-bigdata" onClick={this.selectBigDataAnswer}>Big Data</button></li>
-          <li><button className="btn btn-lg btn-default question-button-pokemon" onClick={this.selectPokemonAnswer}>Pokemon</button></li>
+          <li><button className="btn btn-lg btn-default question-button-misrad" onClick={this.selectMisradAnswer}>Big Data</button></li>
+          <li><button className="btn btn-lg btn-default question-button-mitrad" onClick={this.selectMitradAnswer}>Pokemon</button></li>
         </ul>
       </div>
     )
