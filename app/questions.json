@@ -35,14 +35,14 @@
     "img": "azurill.png"
   },
   {
-    "name": "Hadoop",
+    "name": "משרד הטבע והגנים הלאומיים",
     "url": "https://hadoop.apache.org/",
     "type": 1,
     "text": "Hadoop is a distributed system for counting words.",
     "img": "hadoop.png"
   },
   {
-    "name": "Vulpix",
+    "name": "המשרד לשירותי דת",
     "url": "http://bulbapedia.bulbagarden.net/wiki/Vulpix_(Pok%C3%A9mon)",
     "type": 0,
     "text": "Munchlax is a great counter to Vulpix, being able to take four Fire Blasts from the Life Orb set and hit back hard with Earthquake or STAB Return.",
@@ -168,7 +168,7 @@
     "img": "debezium.jpg"
   },
   {
-    "name": "המשרד לתשתיות הרשת והאינטרנט",
+    "name": "המשרד לתשתיות הרשת, האינטרנט ואבטחת המידע",
     "url": "https://geode.apache.org/",
     "type": 1,
     "text": "Geode is a database like model, which makes people to ask more why Hadoop is not RDBMS. Not to be confused with Geodude which rocks",
