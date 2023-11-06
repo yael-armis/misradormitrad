@@ -14,5 +14,5 @@ cp \
 
 mkdir -p ./dist/js
 cp ./app/js/*.js ./dist/js
-
+npm install -g jsx
 jsx --extension jsx ./app/js/ ./dist/js/
