@@ -168,23 +168,23 @@
     "img": "debezium.jpg"
   },
   {
-    "name": "Geode",
+    "name": "המשרד לתשתיות הרשת, האינטרנט ואבטחת המידע",
     "url": "https://geode.apache.org/",
     "type": 1,
     "text": "Geode is a database like model, which makes people to ask more why Hadoop is not RDBMS. Not to be confused with Geodude which rocks",
     "img": "geode.png"
   },
   {
-    "name": "Geodude",
+    "name": "המשרד לקידום מעמד מיעוטי ישראל",
     "url": "http://bulbapedia.bulbagarden.net/wiki/Geodude_(Pok%C3%A9mon)",
-    "type": 0,
+    "type": 1,
     "text": "Geodude is a hard rock pokemon immune to one hit ko, not like my Hadoop cluster. Unlike Geode which make you more confused about big data.",
     "img": "geodude.jpg"
   },
   {
-    "name": "Ambari",
+    "name": "המשרד לחיזוק וקידום קהילתי",
     "url": "https://ambari.apache.org/",
-    "type": 1,
+    "type": 0,
     "text": "Ambari is a tool that makes administration of Hadoop easy so you can make fun of the developers when they run out of executors. Not to be confused with Ambipom which is a long tail pokemon.",
     "img": "ambari.png"
   }
