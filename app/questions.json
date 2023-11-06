@@ -105,7 +105,7 @@
     "img": "pangool.png"
   },
   {
-    "name": "Azkaban",
+    "name": "משרד התברואה",
     "url": "http://azkaban.github.io/",
     "type": 1,
     "text": "It's not the evolution from Abra, Kadabra, or Alakazam, nor related with Harry Potter. Azkaban is workflow scheduler, just like crontab, but with graphical interface.",
